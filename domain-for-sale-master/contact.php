@@ -3,8 +3,8 @@
 	if (isset($_POST['email'])) {
 
 		// EDIT THE 2 LINES BELOW AS REQUIRED
-		$email_to = "hey@sarozpoddar.com.np";
-		$email_subject = "My offer for [Your Domain]";
+		$email_to = "freecansial@hotmail.com";
+		$email_subject = "Interested in your domain";
 
 
 		$name = $_POST['name']; // required
@@ -53,7 +53,7 @@
 							<div class="bg-faded col-sm-6 text-center col-fixed">
 									<div class="vMiddle">
 										<h1 class="pt-4 h2">
-											<span>Thak you for offer, I will contact as soon as possible. Cheers !!!</span>
+											<span>Thak you, I be in touch shortly.</span>
 										</h1>
 										<div class="row d-md-flex text-center justify-content-center text-primary action-icons">
 											<div class="col-sm-4">
